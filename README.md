@@ -10,7 +10,7 @@
 </div>
 
 <div>
-  <summary>☎️ contact me</summary>
+  <h1 align="center">☎️ contact me</h1>
 <div>
   <samp>
     <h2 align="center">😎 you can reach me by:</h2>
@@ -34,7 +34,6 @@
 </div>
 
 <div> 
-  <summary>💻 GitHub Profile Stats</summary>
   <div>
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
@@ -53,7 +52,7 @@
 </div>
 
 <div>
-  <summary>📈 Activity Graph</summary>
+  <h1 align="center">📈 Activity Graph</h1>
   <br/>
   <h2 align="center"> my current activity </h2>
 <a href="https://github.com/aswad98/github-readme-activity-graph"><img alt="aswad's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=aswad98&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
