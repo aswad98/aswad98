@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="/home/aswad/Desktop/aswadwaving.gif">, I'm Aswad_Bashir</h1>
+<h1 align="center">Hi <img width="35" src="[/home/aswad/Desktop/aswadwaving.gif](https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif)">, I'm Aswad_Bashir</h1>
 <h4 align="center">I'm a Computer Scientist</h4>
 </div>
 
