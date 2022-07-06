@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="[/home/aswad/Desktop/aswadwaving.gif](https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif)">, I'm Aswad_Bashir</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Aswad_Bashir</h1>
 <h4 align="center">I'm a Computer Scientist</h4>
 </div>
 
@@ -25,7 +25,7 @@
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://twitter.com/aswad_bashir2" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twittehttps://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gifr&logoColor=white"
          alt="azzar" height="30"/></a>
       <br>
     </p>
