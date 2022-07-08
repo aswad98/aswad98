@@ -1,10 +1,10 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="main/resource/img/waving.gif">, I'm Aswad_Bashir</h1>
+<h1 align="center">Hi <img width="35" src="waving.gif">, I'm Aswad_Bashir</h1>
 <h4 align="center">I'm a Computer Scientist</h4>
 </div>
 
 <div align="center">
-  <img  src="main/resource/img/grid-snake.svg"
+  <img  src="grid-snake.svg"
        alt="snake" /></a>
 </div>
 
