@@ -1,11 +1,10 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/aswad98/aswad98/main/resource/img/waving.gif">, I'm Aswad_Bashir</h1>
+<h1 align="center">Hi <img width="35" src="main/resource/img/waving.gif">, I'm Aswad_Bashir</h1>
 <h4 align="center">I'm a Computer Scientist</h4>
 </div>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/aswad98/aswad98/main/resource/img/grid-snake.svg"
+  <img  src="main/resource/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
