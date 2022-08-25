@@ -54,7 +54,7 @@
 
 <div>
   <div>
-  <h1 align="center">📈 Activity Graph</h1>
+  <h1 align="center">📈 Activity Graph </h1>
     </div>
   <br/>
 <a href="https://github.com/aswad98/github-readme-activity-graph"><img alt="aswad's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=aswad98&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
